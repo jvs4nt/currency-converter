@@ -1,5 +1,5 @@
-# Conversor de moedas - ID3
+# Conversor de moedas 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/dr4gonzz/pen/RwgLwdj](https://codepen.io/dr4gonzz/pen/RwgLwdj).
+Use the "dist" folder to open the archives.
 
 
