@@ -1,4 +1,4 @@
-# Conversor de moedas 
+# Currency Converter
 
 Use the "dist" folder to open the archives.
 
